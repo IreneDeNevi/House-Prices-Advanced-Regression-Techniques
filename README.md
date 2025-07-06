@@ -102,3 +102,11 @@ The final cell exports the predictions used for the Kaggle submission.
 
 numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn
 
+
+## 👤 Author
+Author : De Nevi Irene
+
+Course: RAI-7005 Machine Learning
+
+Institution: [Open Institute of Technology]([url](https://www.opit.com/))
+
